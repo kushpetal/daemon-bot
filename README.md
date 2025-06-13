@@ -1,11 +1,14 @@
 # daemon-bot
 
-# 🤖 Automated Reddit Video Bot
+# 🤖 AI Content Engine 
+_Generate, Schedule, Preview and Monitor Videos_
 
+### Product 1: Reddit -> Content
 Turn viral Reddit threads into AI-narrated short videos — completely hands-free.
 
 This bot automatically pulls high-engagement posts from subreddits like **AITA**, **TIFU**, and **AskReddit**, turns them into narrated 60-second vertical videos using GPT + ElevenLabs + background gameplay, and posts them on **YouTube Shorts**, **TikTok**, and **Instagram Reels** — all controlled from a lightweight dashboard.
 
+### Product 2: TBD
 ---
 
 ## 📦 Features
